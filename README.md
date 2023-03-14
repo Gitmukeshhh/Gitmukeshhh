@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mukesh Dhale</h1>
+ <h1 align="center">Hi 👋, I'm Mukesh Dhale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*SyQVAEPezb4mfv4j">
+<img align="right" alt="Coding" width="400" src="https://about.codecov.io/wp-content/uploads/2020/09/github-actions.png">
 
 
 
@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitmukeshhh&show_icons=true&locale=en" alt="gitmukeshhh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitmukeshhh&" alt="gitmukeshhh" /></p>
-
